@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 435 180">
+    <defs>
+        <style>.cls-1{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:35px;stroke:url(#Degrade_sans_nom_22);}.cls-2{fill:#00b2d9;}.cls-3{fill:#f2cc01;}</style>
+        <linearGradient id="Degrade_sans_nom_22" y1="90" x2="435" y2="90" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#31519e"/><stop offset="0.05" stop-color="#2e58a2"/>
+            <stop offset="0.11" stop-color="#246aad"/>
+            <stop offset="0.18" stop-color="#1588c0"/><stop offset="0.27" stop-color="#00b2d9"/>
+            <stop offset="0.3" stop-color="#1ab8dc"/><stop offset="0.37" stop-color="#4ac2e1"/>
+            <stop offset="0.42" stop-color="#6dcae4"/><stop offset="0.47" stop-color="#82cee6"/>
+            <stop offset="0.5" stop-color="#8ad0e7"/><stop offset="0.51" stop-color="#94d0d1"/>
+            <stop offset="0.55" stop-color="#adcf9b"/><stop offset="0.58" stop-color="#c2ce6c"/>
+            <stop offset="0.61" stop-color="#d3cd45"/><stop offset="0.64" stop-color="#e1cd27"/>
+            <stop offset="0.67" stop-color="#eacc12"/><stop offset="0.7" stop-color="#f0cc05"/>
+            <stop offset="0.73" stop-color="#f2cc01"/><stop offset="0.78" stop-color="#f2c404"/>
+            <stop offset="0.87" stop-color="#f2bb07"/><stop offset="1" stop-color="#f2b808"/>
+        </linearGradient>
+    </defs>
+    <g id="wms">
+        <path class="cls-1" d="M17.5,17.55l40,145L82.31,87.55c4.84-14.63,25.54-14.63,30.38,0l24.81,75,40-145,24.75,77.77c4.73,14.86,25.77,14.86,30.5,0L257.5,17.5l40,145,60-145,60,144.63-70,.37"/></g><g id="blue_circle"><circle class="cls-2" cx="217.5" cy="155" r="25"/></g><g id="yellow_circle"><circle class="cls-3" cx="97.4" cy="24.9" r="24.9"/>
+    </g>
+</svg>
